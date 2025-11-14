@@ -25,4 +25,4 @@ Applications
 * Supporting ophthalmologists in diagnosis
 * Reducing manual analysis time in large-scale screening programs
 * Can be extended to mobile screening tools
-*
+
