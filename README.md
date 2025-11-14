@@ -1,5 +1,4 @@
 # Diabetic-Retinopathy-Prediction-Using-Machine-Learning-
-# Diabetic-Retinopathy-Prediction-Using-Machine-Learning-
 Diabetic Retinopathy (DR) is a diabetes-related eye disease that can lead to blindness if not detected early. This project aims to build a machine learning system that automatically identifies signs of diabetic retinopathy from retinal fundus images. By leveraging computer vision and deep learning techniques, the model helps in early screening and supports ophthalmologists in clinical decision-making.
 
 Objective
